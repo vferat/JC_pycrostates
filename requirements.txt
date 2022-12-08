@@ -1,0 +1,6 @@
+ipywidgets
+mne
+pycrostates
+sklearn
+seaborn
+opencv-python

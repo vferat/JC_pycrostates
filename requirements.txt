@@ -1,6 +1,6 @@
 ipywidgets
 mne
 pycrostates
-sklearn
+scikit-learn
 seaborn
 opencv-python
